@@ -1,3 +1,8 @@
+# Demo
+Here is the demo [Link.](https://assignment-bang.firebaseapp.com)
+`https://assignment-bang.firebaseapp.com`
+## Data source 
+`https://pokeapi.co/api/v2/pokemon/`
 # Pokemon
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
